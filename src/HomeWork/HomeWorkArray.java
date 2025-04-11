@@ -1,8 +1,6 @@
 package HomeWork;
 
-import java.util.Scanner;
-
-public class HomeWork2 {
+public class HomeWorkArray {
     public static void main(String[] args) {
         try{
 
